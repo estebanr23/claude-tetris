@@ -11,8 +11,8 @@ const COLORS = [
   '#ba68c8', // T - purple
   '#81c784', // S - green
   '#e57373', // Z - red
-  '#7986cb', // J - indigo
-  '#ffb74d', // L - orange
+  '#90caf9', // J - pale blue
+  '#64b5f6', // L - blue (slightly more saturated than J)
 ];
 
 const PIECES = [
